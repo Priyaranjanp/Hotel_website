@@ -1,0 +1,35 @@
+﻿<!doctype html>
+<html>
+ <head>
+  <title>Document</title>
+ </head>
+ <body>
+ <center><h1>Conference Schedule</h1></center>
+ <table border="0" align="center" cellpadding="10" cellspacing="5">
+ <tr bgcolor="blue">
+ <th>Convention Office and Press Room</th>
+ <th>8:00 am to 6:00 pm</th>
+ </tr>
+ <tr bgcolor="grey">
+ <th>Registration</th>
+ <th>8:00 am to 6:00 pm</th>
+ </tr>
+ <tr bgcolor="yellow">
+ <th>Professional Placement Service</th>
+ <th>8:00 am to 6:00 pm</th>
+ </tr>
+ <tr bgcolor="blue">
+ <th>Panel Paper Room Sales</th>
+ <th>9:30 am to 5:30pm</th>
+ </tr>
+ <tr bgcolor="grey">
+ <th>Exhibits</th>
+ <th>9:30 am to 5:30pm</th>
+ </tr>
+ <tr bgcolor="yellow">
+ <th>Child Care</th>
+ <th>8:30 am to 10:00pm</th>
+ </tr>
+ </table>
+ </body>
+</html>

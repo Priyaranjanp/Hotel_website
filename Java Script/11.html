@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+<head>
+<title>Neo</title>
+<style>
+button
+{
+color:white;
+background-color:black;
+width:60px;
+height:40px;
+transition-duration:1s;
+}
+button:hover
+{
+color:yellow;
+transition-duration:1s;
+}
+</style>
+</head>
+<body bgcolor=pink>
+<button type="button" onclick="myDemo()">Product Details</button>
+<p id="para"></p>
+<script>
+function myDemo()
+{
+var pname,price,quantity;
+pname="model name- moto G6";
+price="price- 29999.00";
+quantity="quantity- 1";
+document.getElementById("para").innerHTML=pname+"<br>"+price+"<br>I want to buy only one."+"<br>"+quantity;
+}
+</script>
+</body>
+</html>

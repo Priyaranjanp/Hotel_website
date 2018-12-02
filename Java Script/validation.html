@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+<title>Neo</title>
+<script>
+function validateNameandPassform()
+{
+var name=document.myform.name.value;
+var password=document.myform.password.value;
+if(name==null || name=="")
+ {
+ alert("name can not be blank.");
+ return false;
+ }
+else if(password.length<6)
+ {
+ alert("password must be at 6 characters long.");
+ return false;
+ }
+}
+</script>
+</head>
+<body bgcolor=pink>
+<form name="myform" onsubmit="return validateNameandPassform()">
+Name: <input type="text" name="name"/><br/><br/>
+Password: <input type="password" name="password"/><br/><br/>
+<input type="submit" value="Register">
+</form>
+</body>
+</html>

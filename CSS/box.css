@@ -1,0 +1,15 @@
+﻿<!doctype html>
+<html lang="en">
+ <head>
+  <style>
+  .box 
+  {
+  border: 10px Inset blue;
+  width: 52px;
+  }
+  </style>
+ </head>
+ <body>
+ <div class = "box">RAHUL</div>
+   </body>
+</html>

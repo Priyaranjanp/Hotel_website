@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Neo</title>
+</head>
+<body>
+<center><h1>IBM Watson</h1></center>
+&nbsp;&nbsp;&nbsp;&nbsp;Watson is a question-answering computer system capable of answering questions posed in natural language,developed in IBM's DeepQA. Watson uses IBM's DeepQA software and the Apache 
+UIMA (Unstructured Information Management Architecture)framework.The system was written in various languages, including Java, C++, and Prolog.
+<br>
+&nbsp;&nbsp;&nbsp;
+<pre> The Watson capabilities have been extended and the way in which Watson works has been changed to take advantage of new deployment models
+(Watson on IBM Cloud) andivolved machine learning capabilities and optimised hardware available to developers and researchers.
+<hr><hr>
+<a href="https://www.ibm.com/watson/">IBM</a>
+<img title="Does Your Business Think" src="images/wat.gif" height="20%" width="30%" />
+</body>
+</html>
+ 

@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+<title>Neo</title>
+<style>
+a:link
+{
+text-decoration:none;
+color:black;
+}
+a:visited
+{
+color:blue;
+}
+a:hover
+{
+color:red;
+}
+</style>
+<body>
+<a href="https://www.google.co.in">Go to google</a>
+</body>
+</html>
